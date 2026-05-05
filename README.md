@@ -3,5 +3,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alviya18/alviya18/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alviya18&theme=tokyo-night"/>
 </p>
